@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Eu acredito que o uso de agrotóxicos é essencial para garantir a produção em grande escala e evitar perdas de alimentos. Eles são necessários para controlar pragas e doenças nas plantações.",
-                afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
+                afirmacao: "Você se destaca por sua <b>eficiência</b>, Essa resposta indica uma visão mais pragmática e focada na eficiência. A pessoa provavelmente valoriza resultados práticos e pode ter uma abordagem mais técnica sobre as questões ambientais, priorizando a produtividade e a segurança alimentar."
             },
             {
-                texto: "Exigências quanto ao  relatório médico. Os documentos preenchidos pelo médico deverão conter carimbo legível, com nome e CRM do médico, data e assinatura.",
-                afirmacao: "Você se destaca por seu <b>conhecimento</b>, o carimbo deverá conter também o número do Registro de Qualificação de Especialista (RQE)"
+                texto: "Eu sou contra o uso de agrotóxicos, pois acredito que eles podem causar danos à saúde humana e ao meio ambiente. Prefiro práticas agrícolas mais sustentáveis, como a agricultura orgânica.",
+                afirmacao: "Você se destaca por sua <b>preocupação</b>, A pessoa que escolhe essa resposta tende a ser mais preocupada com o bem-estar coletivo e com o impacto ambiental. Ela valoriza a saúde, a sustentabilidade e provavelmente tem uma visão mais crítica sobre os métodos tradicionais de produção agrícola, buscando alternativas que sejam mais harmônicas com a natureza."
             }
         ]
     },
