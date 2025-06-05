@@ -6,10 +6,10 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como faço para conseguir medicamentos não padronizados do sus?",
+        enunciado: "O que você acha sobre o uso de agrotóxicos na agricultura?",
         alternativas: [
             {
-                texto: "encaminhar-se a regional de saude do seu município, munido dos seguintes documentos: cpf ou rg, comprovante de residencia, prescriçao atualizada, receituario medico.",
+                texto: "Eu acredito que o uso de agrotóxicos é essencial para garantir a produção em grande escala e evitar perdas de alimentos. Eles são necessários para controlar pragas e doenças nas plantações.",
                 afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
             },
             {
