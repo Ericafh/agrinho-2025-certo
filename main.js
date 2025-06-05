@@ -32,41 +32,41 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Por que há tanta escassez de recursos na saúde pública?",
+        enunciado: "Qual a sua opinião sobre a agricultura familiar?",
         alternativas: [
             {
-                texto: "Acredito que Falta de investimento governamental",
-                afirmacao: "<b>Pragmatismo</b> A falta de investimento governamental na saúde pública decorre de orçamentos restritos e outras prioridades de gastos, levando a infraestrutura precária e serviços de saúde insuficientes."
+                texto: "Acredito que a agricultura familiar é fundamental para a produção de alimentos de qualidade e para a preservação das tradições agrícolas. Ela também fortalece a economia local e promove a sustentabilidade.",
+                afirmacao: "Você é uma pessoa <b>sustentável</b>, Quem escolhe essa resposta tende a ser alguém que valoriza a autenticidade e a sustentabilidade. Ela provavelmente se preocupa com a preservação da cultura local e da biodiversidade, dando mais atenção ao impacto social e ambiental das práticas agrícolas. Além disso, é alguém que apoia a economia de pequeno porte e reconhece a importância da agricultura familiar na manutenção de comunidades mais equilibradas."
             },
             {
-                texto: "desigualdades na distribuição de recursos",
-                afirmacao: "<b>Detalhista</b>,Desigualdades na distribuição de recursos na saúde pública ocorrem quando os recursos são alocados de maneira desigual entre diferentes regiões ou populações. Isso pode resultar em acesso desigual a serviços de saúde, com áreas mais pobres ou rurais recebendo menos apoio e, portanto, enfrentando maiores desafios em termos de qualidade e acesso a cuidados médicos."
+                texto: "Eu vejo a agricultura familiar com um certo ceticismo, pois acredito que, para atender à crescente demanda por alimentos, é necessário ter mais eficiência e escala. A agricultura em grande escala, muitas vezes, oferece mais segurança alimentar.",
+                afirmacao: "Você é uma pessoa <b>produtiva</b>, Essa resposta reflete uma postura mais pragmática e voltada para a produtividade. A pessoa provavelmente valoriza a eficiência e a capacidade de atender a grandes demandas, possivelmente com foco na inovação e no uso de tecnologias para aumentar a produção. Ela pode ter uma visão mais voltada para a economia global e as soluções industriais, com menos ênfase na preservação de pequenas práticas agrícolas."
             }
         ]
     },
     {
-        enunciado: "Por que a violência obstétrica está cada vez mais banalizada? ",
+        enunciado: "Qual a sua opinião sobre a medicina veterinária?",
         alternativas: [
             {
-                texto: "Negligência médica",
-                afirmacao: "<b>Foco</b> Apesar do uso de algumas técnicas serem restringidas apenas para casos específicos, ainda são utilizadas diariamente por profissionais da saúde."
+                texto: "A medicina veterinária é essencial, pois não só cuida da saúde dos animais, mas também desempenha um papel importante na saúde pública, prevenindo doenças transmissíveis entre animais e humanos. Eu a vejo como uma profissão que exige dedicação e empatia.",
+                afirmacao: "Você é uma pessoa <b>responsável</b>, Essa pessoa é empática, responsável e possui um grande respeito pelo cuidado com os animais e sua relação com os seres humanos. Ela valoriza as profissões que contribuem para o bem-estar coletivo e demonstra um interesse genuíno pela saúde pública e o meio ambiente. Tende a ser atenta aos impactos das ações humanas na vida animal e na sociedade."
             },
             {
-                texto: "Desinformação da população.",
-                afirmacao: "<b>Curiosidade</b> Mesmo com fácil acesso a informação, o assunto é pouco comentado e dado certa  importância. "
+                texto: "Vejo a medicina veterinária principalmente como uma profissão de negócios, voltada para o lucro das clínicas e dos tratamentos. Embora eu entenda sua importância, acho que, em alguns casos, pode haver um foco excessivo em lucrar em vez de priorizar o bem-estar animal.",
+                afirmacao: "Você é uma pessoa <b>crítica</b>, Quem escolhe essa resposta provavelmente é mais crítica e cética em relação a práticas que envolvem grande envolvimento financeiro. Essa pessoa pode ser mais pragmática, com uma visão voltada para as questões econômicas e o potencial de exploração de certas áreas da profissão. Ela pode ter um forte senso de justiça e estar atenta à ética nas profissões, especialmente no que diz respeito ao cuidado com os animais."
             }
         ]
     },
     {
-        enunciado: "Como evitar que ocorra a extinção de animais nativos?",
+        enunciado: "O que você acha sobre a agropecuária e seu impacto na sociedade atual?",
         alternativas: [
             {
-                texto: "Criação de mais áreas de proteção ambiental, com grande biodiversidade ajudaria a melhorar esse cenário?",
-                afirmacao: "Sim, pois preservando nosso meio ambiente, protegemos nossos animais e facilitamos sua reprodução "
+                texto: "A agropecuária é fundamental para a economia do país, pois gera empregos, alimenta a população e é responsável por uma grande parte das exportações. No entanto, é preciso investir em práticas mais sustentáveis para que não haja prejuízos ao meio ambiente e às futuras gerações.",
+                afirmacao: "A pessoa que escolhe essa resposta tende a ser equilibrada e realista. Ela reconhece a importância da agropecuária, mas se preocupa com os impactos ambientais e busca soluções sustentáveis. É alguém que valoriza tanto o progresso econômico quanto a responsabilidade social e ambiental."
             },
             {
-                texto: "Evitar intervenções de espécies não nativas neste ambiente pode ser uma alternativa?",
-                afirmacao: "Sim, animais de um determinado local não estão preparados para lidar com predadores de outras áreas, levando a um extermínio da espécie local"
+                texto: "A agropecuária é um setor essencial e, apesar de algumas críticas sobre seus impactos ambientais, acredito que a tecnologia e o uso racional de recursos podem minimizar esses problemas. O foco deve ser o crescimento do setor e o aumento da produtividade.",
+                afirmacao: "A pessoa que escolhe essa resposta tem uma visão pragmática e otimista, com foco no progresso e no uso de tecnologia para solucionar problemas. É alguém que acredita que a inovação pode superar desafios e tem uma abordagem mais orientada para o crescimento econômico, às vezes dando menos atenção aos aspectos negativos em comparação com a primeira resposta."
             }
         ]
     }
