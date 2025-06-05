@@ -19,15 +19,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "A falta de consciência ambiental e a baixa adesão a práticas sustentáveis acontecem por vários motivos, entre os quais destacam-se:",
+        enunciado: "O que você pensa sobre a castração de animais de rua?",
         alternativas: [
             {
-                texto: "Falta de Educação Ambiental",
-                afirmacao: "Muitas pessoas não têm acesso a informações adequadas sobre o impacto de suas ações no meio ambiente, o que leva à falta de conscientização e, consequentemente, a comportamentos prejudiciais à <b>sustentabilidade</b>.</b>."
+                texto: "Eu acho que a castração é essencial para controlar a população de animais de rua e evitar o sofrimento de muitos deles. Além disso, é uma medida que ajuda a prevenir doenças e melhora a qualidade de vida dos animais.",
+                afirmacao: "Essa resposta demonstra uma pessoa com um senso prático e empático, que entende a importância da castração como uma solução para o problema da superpopulação de animais abandonados. Ela provavelmente se preocupa com a saúde pública e o bem-estar dos animais, adotando uma visão mais racional sobre o controle da população animal. Você é uma pessoa <b>empática</b>.</b>."
             },
             {
-                texto: "Falta de Incentivos e Legislação",
-                afirmacao: "A ausência de incentivos governamentais e de uma legislação <b>rigorosa </b>faz com que empresas e indivíduos não se sintam motivados a adotar práticas sustentáveis, contribuindo para a continuidade de ações nocivas ao meio ambiente."
+                texto: "Sou contra a castração de animais de rua porque acredito que isso vai contra a natureza e que devemos buscar outras formas de proteger esses animais sem interferir em seu ciclo reprodutivo",
+                afirmacao: "Quem escolhe essa resposta pode ser uma pessoa mais idealista, com um forte apego à ideia de que os animais devem viver de acordo com seus instintos naturais. Essa pessoa pode valorizar mais soluções alternativas, como a criação de abrigos ou programas de adoção, e tende a ser mais desconfiada de intervenções que envolvem a modificação do comportamento natural dos animais. Você é uma pessoa <b>idealista</b>"
             }
         ]
     },
